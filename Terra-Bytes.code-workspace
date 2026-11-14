@@ -1,0 +1,5 @@
+{
+  "folders": [{"name": "Terra Bytes — مرصد الزراعة المصرية", "path": "."}],
+  "settings": {"files.exclude": {"**/node_modules": true, ".work": true, "previous_versions": true}, "search.exclude": {"**/node_modules": true, ".work": true, "previous_versions": true, "**/*.zip": true}, "editor.formatOnSave": false},
+  "extensions": {"recommendations": ["dbaeumer.vscode-eslint", "esbenp.prettier-vscode", "ms-python.python", "ms-azuretools.vscode-docker"]}
+}
